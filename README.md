@@ -3,7 +3,7 @@
 Application Android pour les étudiants ExamiaLink.
 
 **Télécharger l'application :**
-https://github.com/henrijoel-cyber/examialink-telechargement/releases/latest/download/ExamiaLink-Etudiant.apk
+https://github.com/henrijoel-cyber/examialink-telechargement/raw/main/ExamiaLink-Etudiant.apk
 
 ## Installation
 
